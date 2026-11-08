@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Тесты и кэш
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Hugging Face кэш моделей
+.cache/
+huggingface/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Переменные окружения
+.env
